@@ -5,8 +5,8 @@ import time
 
 my_lat = 20.5937
 my_long = 78.9629
-my_email = "pratzz326@gmail.com"
-my_password = "qbtzclchghuvkjpx"
+my_email = "" # enter your own testing email
+my_password = "" #enter your own generated password
 
 
 def is_iss_overhead():
